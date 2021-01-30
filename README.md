@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://github.com/TaynisRW/DigitalAPI/"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://github.com/TaynisRW/DigitalAPI/"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-    [![v2.0](https://poser.pugx.org/phpunit/phpunit/version)](//packagist.org/packages/phpunit/phpunit)
 <a href="https://atiwalkers.com/api/v2/products"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
