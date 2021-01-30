@@ -8,7 +8,7 @@
 </p>
 
 # Guía para instalar el proyecto
-**Desarrollo de una API de geolocalización con Laravel 7 para buscar los precios de la gasolina**
+**Desarrollo de una API REST con autenticación usando Passport en Laravel 8 para hacer un CRUD de productos y carrito de compras**
 
 1. Descarga el repositorio
 2. Descromprime la carpeta dentro del directorio de tu servidor web
